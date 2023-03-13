@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Grey Box.unity
+    guid: ab814467fef820b44b14084f99d64f11
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 66b8ee858bf628a49b814ab034360dda, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 23134b3925ae15848bd97a172f460d9e, type: 2}
